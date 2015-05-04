@@ -1,0 +1,2 @@
+# PacmanAuto
+Pacman autoplayer
